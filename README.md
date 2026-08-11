@@ -1,3 +1,3 @@
 KLIK HOMEPAGE 
 USER:xronbos
-passwd:Xronno135
+PASSWD:Xronno135
